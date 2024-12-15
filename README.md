@@ -31,7 +31,7 @@ A school management system built with Spring Boot that helps manage students, co
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/easeschool.git
+git clone https://github.com/ibads17/easeschool.git
 ```
 
 2. Create PostgreSQL database:
